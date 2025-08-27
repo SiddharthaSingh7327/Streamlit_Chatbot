@@ -23,3 +23,4 @@ It uses **Google Gemini (multimodal)** for text + image understanding and **fast
   - Clear chat history
 
 ---
+
